@@ -1,7 +1,7 @@
 # dog.rb
 class dog
 def initialize
-  harvard= College.new
-yale= College.new
-brown= College.new
+  fido= dog.new
+  snoopy= dog.new
+  lassie= dog.new
 
