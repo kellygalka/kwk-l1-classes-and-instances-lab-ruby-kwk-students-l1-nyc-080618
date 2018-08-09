@@ -1,2 +1,2 @@
 # dog.rb
-class.dog
+class dog
